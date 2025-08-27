@@ -45,3 +45,20 @@ Execute o programa no terminal:
    ```bash
    python tic_tac_toe.py
    ```
+
+
+
+## Modificacion Ronald Mamani Llusco La Paz Bolivia
+un manual de comandos para clonar, crear una rama, hacer modificaciones, hacer un git add, y comit
+
+antes ya que no tenia permisos para hacer un push se hizo un FORK
+
+git clone https://github.com/TU_USUARIO/DEV-LABS-Git-Go.git
+cd DEV-LABS-Git-Go
+git checkout -b nombre-rama
+# haces cambios  en el documento (README.md), me paso el error que no guarde antes de hacer el git add .
+git add .
+git commit -m "Mis cambios"
+git push -u origin nombre-rama
+
+# POSDATA HABRA CERTIFICADO DEL CURSO O COMO FORMO PARTE DE JALA MI NUM ES 69912127
