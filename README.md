@@ -33,3 +33,15 @@ O tabuleiro é de **3x3** e dois jogadores se revezam para colocar seus símbolo
 O primeiro a alinhar três símbolos em **linha, coluna ou diagonal** será o vencedor.  
 Se o tabuleiro ficar cheio e nenhum jogador vencer, o resultado será **empate**.
 
+## 🚀 Cómo jugar / Como jogar
+
+Español:
+Ejecuta el programa desde la terminal:  
+   ```bash
+   python tic_tac_toe.py
+   ````
+Português:
+Execute o programa no terminal:  
+   ```bash
+   python tic_tac_toe.py
+   ```
