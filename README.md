@@ -5,11 +5,13 @@
 
 ¡Hola! 👋 Bienvenidos a este proyecto.  
 Olá! 👋 Bem-vindos a este projeto.
+Hallo 👋 Willkommen bei diesem Projekt.
 
 ## Equipo / Equipe
 - Jeymi Paulas 🇧🇴 
 - Luana Orellana 🇧🇴  
 - Laura Arango 🇨🇴
+- Mauricio Bayron 🇧🇴
 
 ## Participantes
 - Nombre 1 – Participante
