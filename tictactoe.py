@@ -38,7 +38,7 @@ def check_winner(board, player):
 #
 # Português:
 # Verifica se o tabuleiro está cheio (empate).
-def check_is_board_full(board):
+def is_board_complete(board):
     return all(cell != " " for row in board for cell in row)
 
 
@@ -85,8 +85,7 @@ def game():
             print(f"Player {current_player} wins!")
             break
 
-        ## ESTA ELIMINADO DEL CODIGO
-        if check_is_board_full(board):
+        if is_board_complete(board):
             print_board(board)
             print("It's a tie!")
             break
