@@ -12,9 +12,7 @@ Olá! 👋 Bem-vindos a este projeto.
 - Laura Arango 🇨🇴
 
 ## Participantes
-- Nombre 1 – Participante
-- Nombre 2 – Participante 
-- Nombre 3 – Participante
+- Limbert Arhuata BO
 
 
 ## 📖 Descripción / Descrição
