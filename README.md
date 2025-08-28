@@ -12,7 +12,7 @@ Olá! 👋 Bem-vindos a este projeto.
 - Laura Arango 🇨🇴
 
 ## Participantes
-- Nombre 1 – Participante
+- Julio Cesar Mamani Villena – Participante
 - Nombre 2 – Participante 
 - Nombre 3 – Participante
 
