@@ -8,7 +8,7 @@
 def print_board(board):
     for row in board:
         print(" | ".join(row))
-        #print("-" * 5)
+        print("-" * 5)
 
 
 # Español:
@@ -81,7 +81,7 @@ def game():
         board[row][col] = current_player
 
         # Switch player
-        ##current_player = "O" if current_player == "X" else "X"
+        current_player = "O" if current_player == "X" else "X"
 
 
 # Start game
