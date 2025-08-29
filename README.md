@@ -15,7 +15,7 @@ Olá! 👋 Bem-vindos a este projeto.
 - Nombre 1 – Participante
 - Nombre 2 – Participante 
 - Nombre 3 – Participante
-
+- Victor Pinto Mora
 
 ## 📖 Descripción / Descrição
 
